@@ -1,5 +1,6 @@
-## Hi there 👋
+# Hi there, welcome to my GitHub profile! 👋
 
+## Social activity
 <table style="border-collapse: collapse; border: none; outline: none;">
   <tr style="border: none; outline: none;">
     <td style="vertical-align: middle; border: none; outline: none;">
@@ -8,7 +9,7 @@
       </a>
     </td>
     <td style="vertical-align: middle; padding-left: 15px; border: none; outline: none;">
-      &#8592; To connect with me via Alteryx Community
+      &#8592; Alteryx Community
     </td>
   </tr>
 </table>
