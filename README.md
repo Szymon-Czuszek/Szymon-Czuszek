@@ -18,8 +18,8 @@
 <table style="border-collapse: collapse; border: none; outline: none;">
   <tr style="border: none; outline: none;">
     <td style="vertical-align: middle; border: none; outline: none;">
-      <a href="https://community.alteryx.com/t5/user/viewprofilepage/user-id/401608">
-        <img src="\Pictures\alteryx-foundational-micro-credential.png" width="60" alt="Alteryx Logo"/>
+      <a href="https://www.credly.com/badges/d9d1fd80-b934-47a1-a49a-02401b1efab2">
+        <img src="\Pictures\alteryx-foundational-micro-credential.png" width="60" alt="Alteryx Foundational Micro Credential Badge Picture"/>
       </a>
     </td>
     <td style="vertical-align: middle; padding-left: 15px; border: none; outline: none;">
@@ -28,8 +28,8 @@
   </tr>
   <tr style="border: none; outline: none;">
     <td style="vertical-align: middle; border: none; outline: none;">
-      <a href="https://community.alteryx.com/t5/user/viewprofilepage/user-id/401608">
-        <img src="\Pictures\alteryx-auto-insights-micro-credential.png" width="60" alt="Alteryx Logo"/>
+      <a href="https://www.credly.com/badges/d678725d-5635-48fd-9502-ce5060e72a55">
+        <img src="\Pictures\alteryx-auto-insights-micro-credential.png" width="60" alt="Alteryx Auto Insights Micro Credential Badge Picture"/>
       </a>
     </td>
     <td style="vertical-align: middle; padding-left: 15px; border: none; outline: none;">
