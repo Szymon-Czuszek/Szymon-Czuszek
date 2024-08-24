@@ -26,6 +26,16 @@
       &#8592; Alteryx Foundational Micro Credential
     </td>
   </tr>
+  <tr style="border: none; outline: none;">
+    <td style="vertical-align: middle; border: none; outline: none;">
+      <a href="https://community.alteryx.com/t5/user/viewprofilepage/user-id/401608">
+        <img src="\Pictures\alteryx-auto-insights-micro-credential.png" width="60" alt="Alteryx Logo"/>
+      </a>
+    </td>
+    <td style="vertical-align: middle; padding-left: 15px; border: none; outline: none;">
+      &#8592; Alteryx Auto Insights Micro Credential
+    </td>
+  </tr>
 </table>
 
 <!--
