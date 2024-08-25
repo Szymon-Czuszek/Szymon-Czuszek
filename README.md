@@ -38,7 +38,7 @@
   </tr>
   <tr style="border: none; outline: none;">
     <td style="vertical-align: middle; border: none; outline: none;">
-      <a href="https://www.credly.com/badges/d678725d-5635-48fd-9502-ce5060e72a55">
+      <a href="https://www.credly.com/badges/d81f3047-f362-46bb-ac81-bec3a2211147">
         <img src="\Pictures\machine-learning-fundamentals-micro-credential.png" width="60" alt="Machine Learning Fundamentals Micro Credential Badge Picture"/>
       </a>
     </td>
