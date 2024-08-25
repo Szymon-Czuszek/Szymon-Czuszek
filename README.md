@@ -48,7 +48,7 @@
   </tr>
   <tr style="border: none; outline: none;">
     <td style="vertical-align: middle; border: none; outline: none;">
-      <a href="https://www.credly.com/badges/d678725d-5635-48fd-9502-ce5060e72a55">
+      <a href="https://www.credly.com/badges/046a8f49-30ff-4fe2-9e88-7b146b4fd225">
         <img src="\Pictures\alteryx-designer-core-certification.png" width="60" alt="Alteryx Designer Core Certification Badge Picture"/>
       </a>
     </td>
