@@ -36,6 +36,16 @@
       &#8592; Alteryx Auto Insights Micro Credential
     </td>
   </tr>
+  <tr style="border: none; outline: none;">
+    <td style="vertical-align: middle; border: none; outline: none;">
+      <a href="https://www.credly.com/badges/d678725d-5635-48fd-9502-ce5060e72a55">
+        <img src="\Pictures\machine-learning-fundamentals-micro-credential.png" width="60" alt="Machine Learning Fundamentals Micro Credential Badge Picture"/>
+      </a>
+    </td>
+    <td style="vertical-align: middle; padding-left: 15px; border: none; outline: none;">
+      &#8592; Alteryx Machine Learning Fundamentals Micro Credential
+    </td>
+  </tr>
 </table>
 
 <!--
