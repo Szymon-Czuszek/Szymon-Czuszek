@@ -63,7 +63,7 @@
       </a>
     </td>
     <td style="vertical-align: middle; padding-left: 15px; border: none; outline: none;">
-      &#8592; Alteryx Certification
+      &#8592; Alteryx Designer Advanced Certification
     </td>
   </tr>
 </table>
