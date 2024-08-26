@@ -56,6 +56,16 @@
       &#8592; Alteryx Designer Core Certification
     </td>
   </tr>
+  <tr style="border: none; outline: none;">
+    <td style="vertical-align: middle; border: none; outline: none;">
+      <a href="">
+        <img src="\Pictures\.png" width="60" alt="Alteryx Designer Certification Badge Picture"/>
+      </a>
+    </td>
+    <td style="vertical-align: middle; padding-left: 15px; border: none; outline: none;">
+      &#8592; Alteryx Certification
+    </td>
+  </tr>
 </table>
 
 <!--
