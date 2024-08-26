@@ -59,7 +59,7 @@
   <tr style="border: none; outline: none;">
     <td style="vertical-align: middle; border: none; outline: none;">
       <a href="">
-        <img src="\Pictures\.png" width="60" alt="Alteryx Designer Certification Badge Picture"/>
+        <img src="\Pictures\alteryx-designer-advanced-certification.png" width="60" alt="Alteryx Designer Certification Badge Picture"/>
       </a>
     </td>
     <td style="vertical-align: middle; padding-left: 15px; border: none; outline: none;">
