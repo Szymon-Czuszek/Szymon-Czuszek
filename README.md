@@ -12,6 +12,16 @@
       &#8592; Alteryx Community
     </td>
   </tr>
+  <tr style="border: none; outline: none;">
+    <td style="vertical-align: middle; border: none; outline: none;">
+      <a href="link">
+        <img src="\Pictures\.png" width="60" alt="logo"/>
+      </a>
+    </td>
+    <td style="vertical-align: middle; padding-left: 15px; border: none; outline: none;">
+      &#8592; LinkedIn
+    </td>
+  </tr>
 </table>
 
 ## Licenses and certificates
