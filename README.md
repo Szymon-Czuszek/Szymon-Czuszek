@@ -14,7 +14,7 @@
   </tr>
   <tr style="border: none; outline: none;">
     <td style="vertical-align: middle; border: none; outline: none;">
-      <a href="link">
+      <a href="https://www.linkedin.com/in/szymon-czuszek/">
         <img src="\Pictures\LinkedIn.png" width="60" alt="LinkedIn Logo"/>
       </a>
     </td>
