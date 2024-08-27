@@ -15,7 +15,7 @@
   <tr style="border: none; outline: none;">
     <td style="vertical-align: middle; border: none; outline: none;">
       <a href="link">
-        <img src="\Pictures\.png" width="60" alt="logo"/>
+        <img src="\Pictures\LinkedIn.png" width="60" alt="LinkedIn Logo"/>
       </a>
     </td>
     <td style="vertical-align: middle; padding-left: 15px; border: none; outline: none;">
