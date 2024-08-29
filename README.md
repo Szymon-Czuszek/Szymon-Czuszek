@@ -4,7 +4,7 @@
 <table style="border-collapse: collapse; border: none; outline: none;">
     <tr style="border: none; outline: none;">
     <td style="vertical-align: middle; border: none; outline: none;">
-      <a href="">
+      <a href="https://github.com/Szymon-Czuszek">
         <img src="\Pictures\GitHub.png" width="60" alt="GitHub Logo"/>
       </a>
     </td>
