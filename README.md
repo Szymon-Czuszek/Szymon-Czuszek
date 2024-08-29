@@ -2,6 +2,16 @@
 
 ## Social activity
 <table style="border-collapse: collapse; border: none; outline: none;">
+    <tr style="border: none; outline: none;">
+    <td style="vertical-align: middle; border: none; outline: none;">
+      <a href="">
+        <img src="\Pictures\GitHub.png" width="60" alt="GitHub Logo"/>
+      </a>
+    </td>
+    <td style="vertical-align: middle; padding-left: 15px; border: none; outline: none;">
+      &#8592; GitHub
+    </td>
+  </tr>
   <tr style="border: none; outline: none;">
     <td style="vertical-align: middle; border: none; outline: none;">
       <a href="https://community.alteryx.com/t5/user/viewprofilepage/user-id/401608">
