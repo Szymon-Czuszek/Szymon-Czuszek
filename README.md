@@ -12,6 +12,16 @@
       &#8592; GitHub
     </td>
   </tr>
+    <tr style="border: none; outline: none;">
+    <td style="vertical-align: middle; border: none; outline: none;">
+      <a href="https://www.datacamp.com/portfolio/szymon-72c344f3-007c-4d4e-98e4-1a08eb1ec2b6">
+        <img src="\Pictures\DataCamp.png" width="60" alt="DataCamp Logo"/>
+      </a>
+    </td>
+    <td style="vertical-align: middle; padding-left: 15px; border: none; outline: none;">
+      &#8592; DataCamp
+    </td>
+  </tr>
   <tr style="border: none; outline: none;">
     <td style="vertical-align: middle; border: none; outline: none;">
       <a href="https://community.alteryx.com/t5/user/viewprofilepage/user-id/401608">
