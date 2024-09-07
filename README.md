@@ -25,11 +25,11 @@
   <tr style="border: none; outline: none;">
     <td style="vertical-align: middle; border: none; outline: none;">
       <a href="https://www.duolingo.com/profile/SzymonCzus">
-        <img src="\Pictures\Udemy.png" width="60" alt="Udemy Logo"/>
+        <img src="\Pictures\Duolingo.png" width="60" alt="Duolingo Logo"/>
       </a>
     </td>
     <td style="vertical-align: middle; padding-left: 15px; border: none; outline: none;">
-      &#8592; Udemy
+      &#8592; Duolingo
     </td>
   </tr>
   <tr style="border: none; outline: none;">
