@@ -34,7 +34,7 @@
   </tr>
   <tr style="border: none; outline: none;">
     <td style="vertical-align: middle; border: none; outline: none;">
-      <a href="https://www.duolingo.com/profile/SzymonCzus">
+      <a href="https://www.busuu.com/dashboard/profile/89026859/progress">
         <img src="\Pictures\Busuu.png" width="60" alt="Busuu Logo"/>
       </a>
     </td>
