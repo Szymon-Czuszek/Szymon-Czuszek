@@ -35,11 +35,11 @@
   <tr style="border: none; outline: none;">
     <td style="vertical-align: middle; border: none; outline: none;">
       <a href="https://www.duolingo.com/profile/SzymonCzus">
-        <img src="\Pictures\Busuu.png" width="60" alt="Duolingo Logo"/>
+        <img src="\Pictures\Busuu.png" width="60" alt="Busuu Logo"/>
       </a>
     </td>
     <td style="vertical-align: middle; padding-left: 15px; border: none; outline: none;">
-      &#8592; Duolingo
+      &#8592; Busuu
     </td>
   </tr>
   <tr style="border: none; outline: none;">
